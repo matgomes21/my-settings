@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Omni",
+    
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "window.zoomLevel": 2,
+    "terminal.integrated.cursorStyle": "line",
+
+    "emmet.syntaxProfiles": { "java": "jsx" },
+    "emmet.includeLanguages": { "java": "javareact" },
+
+    "java.updateImportsOnFileMove.enabled": "never",
+    "type.updateImportsOnFileMove.enabled": "never",
+
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "java.suggest.autoImports": true,
+    "type.suggest.autoImports": true,
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "C_Cpp.updateChannel": "Insiders"
+}
