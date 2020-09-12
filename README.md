@@ -24,7 +24,7 @@ Available on settings.json file.
 [<img width=50 src="https://auchenberg.gallerycdn.vsassets.io/extensions/auchenberg/vscode-browser-preview/0.6.7/1587959208888/Microsoft.VisualStudio.Services.Icons.Default" alt="Browser Preview">](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
 ## Shortcut
-Duplicate Line<br>
+Duplicate Line
 
     Ctrl + Shift + P
     Keyboard Shortcuts
