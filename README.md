@@ -3,16 +3,11 @@
 ## Font
 
 [Fira Code](https://github.com/tonsky/FiraCode/releases)
-<br>
-<br>
 
 ## settings.json
 Available on settings.json file.
-<br>
-<br>
 
 ## Extensions
-<br>
 
 [<img padding=100 width=50 src="https://shan.gallerycdn.vsassets.io/extensions/shan/code-settings-sync/3.4.3/1569243788505/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Settings Sync">](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)&nbsp;&nbsp;&nbsp;
 [<img width=50 src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/theme-omni/1.0.8/1588434306376/Microsoft.VisualStudio.Services.Icons.Default" alt="Omni Theme">](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)&nbsp;&nbsp;&nbsp;
@@ -27,8 +22,6 @@ Available on settings.json file.
 [<img width=50 src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/1.9.0/1589974448396/Microsoft.VisualStudio.Services.Icons.Default" alt="Spell Checker">](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)&nbsp;&nbsp;&nbsp;
 [<img width=50 src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.3.0/1599815793523/Microsoft.VisualStudio.Services.Icons.Default" alt="Path Intellisense">](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)&nbsp;&nbsp;&nbsp;
 [<img width=50 src="https://auchenberg.gallerycdn.vsassets.io/extensions/auchenberg/vscode-browser-preview/0.6.7/1587959208888/Microsoft.VisualStudio.Services.Icons.Default" alt="Browser Preview">](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
-<br>
-<br>
 
 ## Shortcut
 Duplicate Line<br>
