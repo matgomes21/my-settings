@@ -1,5 +1,9 @@
 # Visual Studio Code Settings
 
+## Rocketseat customizaion
+
+https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
+
 ## Font
 
 [Fira Code](https://github.com/tonsky/FiraCode/releases)
