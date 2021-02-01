@@ -1,4 +1,4 @@
-# My Envirnoment Settings
+# My Envirnonment Settings
 
 ## Rocketseat customizaion
 
