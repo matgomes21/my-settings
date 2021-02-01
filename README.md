@@ -1,4 +1,4 @@
-# Visual Studio Code Settings
+# My Envirnoment Settings
 
 ## Rocketseat customizaion
 
