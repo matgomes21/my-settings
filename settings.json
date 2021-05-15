@@ -1,32 +1,58 @@
 {
-    "workbench.colorTheme": "Omni",
+  "editor.renderLineHighlight": "gutter",
+
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+
+  "editor.parameterHints.enabled": false,
+
+  "workbench.colorTheme": "Omni",
     
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
 
-    "explorer.compactFolders": false,
-    "editor.renderLineHighlight": "gutter",
-    "workbench.editor.labelFormat": "short",
-    
-    "terminal.integrated.shell.osx": "/bin/zsh",
-    "window.zoomLevel": 2,
-    "terminal.integrated.cursorStyle": "line",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editorAssociations": [
+    {
+        "viewType": "jupyter.notebook.ipynb",
+        "filenamePattern": "*.ipynb"
+    }
+  ],
 
-    "emmet.syntaxProfiles": { "java": "jsx" },
-    "emmet.includeLanguages": { "java": "javareact" },
+  "explorer.compactFolders": false,
+  
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.cursorStyle": "line",
 
-    "java.updateImportsOnFileMove.enabled": "never",
-    "type.updateImportsOnFileMove.enabled": "never",
+  "emmet.syntaxProfiles": { "java": "jsx" },
+  "emmet.includeLanguages": { "java": "javareact" },
 
-    "breadcrumbs.enabled": true,
-    "editor.parameterHints.enabled": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false,
+  "java.updateImportsOnFileMove.enabled": "never",
+  "type.updateImportsOnFileMove.enabled": "never",
 
-    "java.suggest.autoImports": true,
-    "type.suggest.autoImports": true,
+  "java.suggest.autoImports": true,
+  "type.suggest.autoImports": true,
 
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "C_Cpp.updateChannel": "Insiders"
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  "C_Cpp.updateChannel": "Insiders",
+  "sync.gist": "dd411e57d723a8d3f5c3d57b9048a5a5",
+  "cSpell.userWords": [
+      "keycloak",
+      "mariadb",
+      "mysqladmin"
+  ],
+  "cSpell.enabled": false,
+  "git.autofetch": true,
+  "window.zoomLevel": 1,
+  
+  "git.suggestSmartCommit": false,
 }
